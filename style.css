@@ -60,6 +60,16 @@ letter-spacing:6px;
 
 color:#C8A86B;
 
+text-shadow:0 0 10px rgba(200,168,107,.25);
+
+}
+
+font-size:34px;
+
+letter-spacing:6px;
+
+color:#C8A86B;
+
 }
 
 
@@ -120,7 +130,11 @@ text-align:center;
 
 #home h1{
 
-font-family:Cinzel;
+font-size:140px;
+
+letter-spacing:8px;
+
+text-shadow:0 0 20px rgba(200,168,107,.15);
 
 font-size:110px;
 
@@ -224,7 +238,9 @@ gap:40px;
 
 .card{
 
-padding:80px;
+padding:100px 80px;
+
+min-height:350px;
 
 text-align:center;
 
